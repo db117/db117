@@ -1,5 +1,6 @@
 <h2 align="center"> Hi, 大兵 here. 👋 </h2>
-<img src="https://img.shields.io/github/last-commit/db117/db117" alt="last edit time"> ![](https://komarev.com/ghpvc/?username=db117&label=views)
+<img src="https://img.shields.io/github/last-commit/db117/db117" alt="last edit time"> <img src="https://komarev.com/ghpvc/?username=db117&label=views" alt="last edit time">
+
 
 # About Me
 
